@@ -2,7 +2,8 @@
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/REM-moe)
 
 ```diff
-+ A sophomore year Project which is a simple Java application which implements swing and mysql connector to create a simple app to manage student marks. +
++ A sophomore year Project which is a simple Java application which implements swing and  +
++ Mysql connector to create a simple app to manage student marks. +
 + The project shows how GUI  can be implemented in java +
  
 - the application has major security risks including the possibility to enther as much data in the DB and filling it -
@@ -19,13 +20,13 @@
 ![Imgur](https://i.imgur.com/fniIxqQ.png)
 ``` diff -
 
-******************************READ ME************************************
+-******************************READ ME************************************-
 
-Run the Java File In This Folder 
+Run the Java File In This Folder containing icon.png and title.png (change to customize)
 
 Do Not Delete Any Files 
 
-********************************IMPORTANT********************************
+-********************************IMPORTANT********************************-
 
 	password of your mysql account should be entered in ******** area in .java File
 
