@@ -6,7 +6,7 @@
 + Mysql connector to create a simple app to manage student marks. +
 + The project shows how GUI  can be implemented in java +
  
-- the application has major security risks including the possibility to enther as much data in the DB and filling it -
+- the application has major security risks including the possibility to enter as much data in the DB and filling it -
 
 
 
@@ -30,7 +30,7 @@ Do Not Delete Any Files
 
 	password of your mysql account should be entered in ******** area in .java File
 
-PRE-Requisites 
+!  PRE-Requisites  !
 
 	1 - Mysql 
 
@@ -58,7 +58,7 @@ PRE-Requisites
 
 	Reg_no as primary key since it is Unique among other fileds
 
-Created By
+Created By :
 
 Fahmi  | Sreya  | Anand  | Shyamdev  | Vaishak  | Abhay 
 ```
