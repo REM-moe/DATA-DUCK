@@ -11,11 +11,6 @@
 
 
 @@ created by a few friends trying to learn JAVA @@
-- sreya-
-- fahmi -
-- shyamdev -
-- anand -
-- vaishak -
 ```
 ![Imgur](https://i.imgur.com/fniIxqQ.png)
 ``` diff -
@@ -60,5 +55,4 @@ Do Not Delete Any Files
 
 Created By :
 
-Fahmi  | Sreya  | Anand  | Shyamdev  | Vaishak  | REM-moe
 ```
