@@ -9,8 +9,6 @@
 - the application has major security risks including the possibility to enter as much data in the DB and filling it -
 
 
-
-@@ created by a few friends trying to learn JAVA @@
 ```
 ![Imgur](https://i.imgur.com/fniIxqQ.png)
 ``` diff -
